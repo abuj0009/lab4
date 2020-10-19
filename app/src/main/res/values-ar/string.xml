@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enrolment</string>
+    <string name="hello_message">مرحبا بكم</string>
+    <string name="ButtonText">اضغط هنا </string>
+    <string name="GUI">انظر الى GUI</string>
+    <string name="guiButtonTxt">اضغط هنا </string>
+    <string name="guiCheckBox">انظر هنا </string>
+    <string name="guiSwitch">Switch on / off</string>
+    <string name="toast_message">المزيد من المعلومات</string>
+    <string name="editText">اكتب هنا</string>
+    <string name="snackBarText">The switch is now</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="email">اكتب العنوان الالكتروني</string>
+    <string name="tEmail">كتب العنوان الالكتروني</string>
+    <string name="ePass">اكتب كلمة المرور </string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="name">اسم</string>
+  <string name="enterName">أدخل الاسم</string>
+    <string name="enterEmail">ادخل العنوان الكتروني </string>
+    <string name="pic">صوره</string>
+    <string name="takepic">Take a picture</string>
+
+   
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">Hello World</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="GUI">Look at my GUI</string>
+    <string name="guiButtonTxt">Click here</string>
+    <string name="guiCheckBox">Check this out!</string>
+    <string name="guiSwitch">Switch on / off</string>
+    <string name="toast_message">Here is more information</string>
+    <string name="editText">Type here</string>
+    <string name="snackBarText">The switch is now </string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="email">ُEnter your email address</string>
+    <string name="tEmail">ادخل العنوان الالكتروني</string>
+    <string name="ePass">دخل العنوان الالكتروني</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="profile">profile</string>
+    <string name="name">Name</string>
+    <string name="enterName">Enter the Name</string>
+    <string name="enterEmail">اEnter your Email</string>
+    <string name="pic">picture</string>
+    <string name="takepic">Take a picture</string>
+
+</resources>
+
+
