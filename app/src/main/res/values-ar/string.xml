@@ -22,6 +22,10 @@
     <string name="enterEmail">ادخل العنوان الكتروني </string>
     <string name="pic">صوره</string>
     <string name="takepic">Take a picture</string>
+    <string name="recTxt">RECEIVE</string>
+    <string name="editHint">Type here</string>
+    <string name="sendTxt">SEND</string>
+    <string name="picText">Click the button above to take a picture</string>
 
    
 </resources>

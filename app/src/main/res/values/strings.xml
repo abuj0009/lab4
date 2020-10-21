@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Enrolment</string>
     <string name="hello_message">Hello World</string>
     <string name="ButtonText">I\'m a button</string>
     <string name="GUI">Look at my GUI</string>
@@ -12,7 +12,7 @@
     <string name="on">On</string>
     <string name="off">Off</string>
     <string name="email">ُEnter your email address</string>
-    <string name="tEmail">ادخل العنوان الالكتروني</string>
+    <string name="tEmail">Enter your email address</string>
     <string name="ePass">دخل العنوان الالكتروني</string>
     <string name="login">تسجيل الدخول</string>
     <string name="profile">profile</string>
@@ -21,6 +21,10 @@
     <string name="enterEmail">اEnter your Email</string>
     <string name="pic">picture</string>
     <string name="takepic">Take a picture</string>
+    <string name="recTxt">RECEIVE</string>
+    <string name="editHint">Type here</string>
+    <string name="sendTxt">SEND</string>
+    <string name="picText">Click the button above to take a picture</string>
 
 </resources>
 
